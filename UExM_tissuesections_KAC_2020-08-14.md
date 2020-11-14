@@ -1,4 +1,4 @@
-Ultra Expansion Microscopy (UExM) Adapted for Delicate Tissue Sections
+# Ultra Expansion Microscopy (UExM) Adapted for Delicate Tissue Sections
 
 The goal of this procedure is to expand samples to make it easier to see
 small objects, especially those near the diffraction limit for light
@@ -9,7 +9,7 @@ protocol. The original protocol shows isotropic expansion of
 approximately four-fold, linearly, although we have not yet analyzed
 this for this protocol.
 
-**Materials**
+## Materials
 
 -   Pap pen
 
@@ -95,15 +95,15 @@ this for this protocol.
 
 -   forceps
 
-**Procedure**
+## Procedure
 
-Day 0: Fix the Sample
+### Day 0: Fix the Sample
 
 1.  Fix sample in PFA and wash thoroughly in PBS.
 
 2.  Cryoprotect sample in 30% sucrose.
 
-Day 1: Section and Gel the Sample
+### Day 1: Section and Gel the Sample
 
 1.  Embed sample in OCT on dry ice or -20°C metal block, ideally
     surrounded by dry ice.
@@ -184,7 +184,7 @@ Day 1: Section and Gel the Sample
     incubating the gel at 37°C for a shorter period, such as 1 hour,
     will also work.)
 
-Day 2: Denature, Expand, and Start Staining
+### Day 2: Denature, Expand, and Start Staining
 
 1.  Lightly press the slide to see that the gel is solidified. It should
     not ooze out.
@@ -227,7 +227,7 @@ Day 2: Denature, Expand, and Start Staining
     PBS and replace it with antibody solution. Incubate this pouch on a
     gentle rocker in the cold room.
 
-Day 3: Finish Staining
+### Day 3: Finish Staining
 
 1.  Transfer gel into PBS, approximately 200mL, at room temperature for
     30 minutes.
@@ -238,7 +238,7 @@ Day 3: Finish Staining
     DAPI at 4°C overnight. (Again, a pouch can be used, and it can be
     incubated on a rocker in the cold room.)
 
-Day 4: Wash and Expand
+### Day 4: Wash and Expand
 
 1.  Transfer the gel into approximately 200mL of PBS. Incubate at room
     temperature for 30 minutes.
@@ -251,7 +251,7 @@ Day 4: Wash and Expand
 4.  Place gel in ddH2O for at least 1 hour to fully expand before
     imaging.
 
-Imaging
+### Imaging
 
 1.  Trim gel to fit within the glass area of the imaging dish.
 
