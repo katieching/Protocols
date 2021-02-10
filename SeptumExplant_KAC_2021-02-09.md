@@ -1,4 +1,4 @@
-Septum Explant Isolation and Culture Technique
+# Septum Explant Isolation and Culture Technique
 
 This procedure describes how to isolate the olfactory epithelium from
 the septum of a mouse and grow it in vitro. The goal is to create an in
@@ -10,7 +10,9 @@ by Oberland and Neuhaus, JoVE 2014. It would be best to watch their
 video before attempting this protocol. Also see my experiment "OE dev
 \#11" for an assessment of different growth media.
 
-**Materials**
+
+
+## **Materials**
 
 -   embryo explant media (EEM)
 
@@ -68,9 +70,11 @@ video before attempting this protocol. Also see my experiment "OE dev
 
 -   PBS, pH 7.4
 
-**Procedure**
 
-Preparation
+
+## **Procedure**
+
+### Preparation
 
 1.  Make and warm media to 33°C (or at least room temperature, can be
     pre-made and just warmed on the dissection day).
@@ -78,7 +82,8 @@ Preparation
 2.  Make and chill Tyrode's solution to 0 -- 8°C (can be pre-made,
     filtered, and stored in fridge).
 
-Snout Removal
+
+### Snout Removal
 
 \*Note: The following steps, from euthanasia through plating are best
 done in less than 90 minutes for good sample quality.
@@ -118,7 +123,7 @@ done in less than 90 minutes for good sample quality.
 7.  Place the snout in a tube of Tyrode's buffer on ice until ready to
     proceed with the fine dissection.
 
-Fine Dissection and Plating
+### Fine Dissection and Plating
 
 1.  Prepare the plate. Place the desired number of filters into the
     multiwell plate and fill the bottom compartment with cold Tyrode's
@@ -130,22 +135,12 @@ Fine Dissection and Plating
 3.  Use forceps to gently remove the olfactory bulb and any of the rest
     of the brain from the cavity behind the eyes. Note: If you're having
     trouble grasping the sample with forceps, it can be helpful to
-    remove the eyes and grasp the samples by the eye sockets. (images:
-    before and after removing olfactory bulb and remaining brain)
+    remove the eyes and grasp the samples by the eye sockets.
 
-![A picture containing food, pan Description automatically
-generated](media/image1.jpeg){width="3.0in" height="2.25in"}![A picture
-containing indoor, kitchenware, pan Description automatically
-generated](media/image2.jpeg){width="3.0in" height="2.25in"}
-
-4.  Scrape or wipe the thin membrane from the top of the snout. ![A
-    picture containing food, soup Description automatically
-    generated](media/image3.jpeg){width="3.0in" height="2.25in"}
+4.  Scrape or wipe the thin membrane from the top of the snout.
 
 5.  Use microdissection scissors to trim off the tip of the snout. This
-    should be soft and not require cutting through calcified bone. ![A
-    picture containing indoor, food, soup Description automatically
-    generated](media/image4.jpeg){width="3.0in" height="2.25in"}
+    should be soft and not require cutting through calcified bone. 
 
 6.  Transfer snout to paper towels and use a razor blade to split the
     snout just to the right of the midline. (Note: if you're having
@@ -174,13 +169,8 @@ generated](media/image2.jpeg){width="3.0in" height="2.25in"}
     between calcified and soft part of the septum. Be careful not to
     damage the septum epithelium, which should be exposed. (If the right
     nasal bone stayed on the discarded right half of the snout, skip
-    this step.) Images: informatics.jax.org, The Anatomy of the
-    Laboratory Mouse. I've added blue arrows to indicate where breaks
-    should be made.
-
-![](media/image5.jpeg){width="2.1145833333333335in"
-height="3.201388888888889in"}![](media/image7.png){width="3.6145833333333335in"
-height="1.6195330271216097in"}
+    this step.) See informatics.jax.org, The Anatomy of the
+    Laboratory Mouse for helpful images of the bones in the mouse head.
 
 11. Remove the piece of the nasal bone between the two breaks you just
     made.
@@ -226,8 +216,7 @@ height="1.6195330271216097in"}
 
 19. Grasp the snout so that the bare side of the septum is facing you.
     Use bone shears to cut the left nasal bone, above the septum,
-    mirroring the breaks made to remove the right nasal bone. (See
-    previous images.)
+    mirroring the breaks made to remove the right nasal bone. 
 
 20. Use forceps to remove the left nasal bone between the breaks.
 
@@ -264,7 +253,7 @@ height="1.6195330271216097in"}
     marker to keep track of the position of the filter within the well
     (in case it spins) and label the lid with which sample is which.
 
-Culturing
+### Culturing
 
 1.  Take the plate of filters and explants to the tissue culture hood.
 
@@ -280,7 +269,7 @@ Culturing
     should be added, come back and check after an hour and see if any
     media has seeped into the top compartment.
 
-> Other notes about culturing:
+Other notes about culturing:
 
 a.  Explants seem to take about an hour to recover from being dissected
     and being in cold buffer. If a treatment will be applied, it may be
