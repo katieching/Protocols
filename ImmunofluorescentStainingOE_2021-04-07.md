@@ -1,4 +1,4 @@
-Immunofluorescent staining of olfactory epithelium cryosections
+# Immunofluorescent staining of olfactory epithelium cryosections
 
 The purpose of this protocol is to detect individual proteins via
 indirect immunostaining for light microscopy. This protocol uses
@@ -9,7 +9,7 @@ slightly from what I've published previously (DOI:
 10.1371/journal.pbio.3000852). Both methods should work with the same
 antibodies, but this one will likely yield better signal to noise.
 
-**Materials**
+## Materials
 
 -   Tyrode's buffer
 
@@ -65,9 +65,9 @@ antibodies, but this one will likely yield better signal to noise.
 
 -   optional: clear nail polish
 
-**Procedure**
+## Procedure
 
-Sample Preparation
+### Sample Preparation
 
 1.  Perform mechanical dissection of the olfactory epithelium. Samples
     usually produce cleaner staining if this is done in cold Tyrode's
@@ -106,7 +106,7 @@ Sample Preparation
     over time. Additionally, avoid excessive freeze/thaw cycles. Stored
     properly, samples can be used months to years after sectioning.
 
-Preparing Slides for Staining
+### Preparing Slides for Staining
 
 1.  Thaw slides by taking the bag containing samples out of the freezer
     and allowing it to warm up on the bench. Once the slide mailer is
@@ -140,7 +140,7 @@ Preparing Slides for Staining
     desired concentration in PBS-ST. Keep antibodies on ice while
     waiting.
 
-Stain Samples
+### Stain Samples
 
 1.  Aspirate PBS-ST and replace with primary antibody mixture. Incubate
     in humid chamber for a minimum of 1 hour. Many antibodies yield
