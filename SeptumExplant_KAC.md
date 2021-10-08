@@ -1,4 +1,4 @@
-Septum Explant Isolation and Culture Technique
+# Septum Explant Isolation and Culture Technique
 
 This procedure describes how to isolate the olfactory epithelium from
 the septum of a mouse and grow it in vitro. The goal is to create an in
@@ -10,7 +10,7 @@ by Oberland and Neuhaus, JoVE 2014. It would be best to watch their
 video before attempting this protocol. Media formulation was based on Farbman 1977. Also see my experiment "OE dev
 \#11" for an assessment of different growth media.
 
-**Materials**
+## Materials
 
 -   embryo explant media (EEM)
 
@@ -68,9 +68,9 @@ video before attempting this protocol. Media formulation was based on Farbman 19
 
 -   PBS, pH 7.4
 
-**Procedure**
+## Procedure
 
-Preparation
+### Preparation
 
 1.  Make and warm media to 33°C (or at least room temperature, can be
     pre-made and just warmed on the dissection day).
@@ -78,7 +78,7 @@ Preparation
 2.  Make and chill Tyrode's solution to 0 - 8°C (can be pre-made,
     filtered, and stored in fridge).
 
-Snout Removal
+### Snout Removal
 
 \*Note: The following steps, from euthanasia through plating are best
 done in less than 90 minutes for good sample quality.
@@ -118,7 +118,7 @@ done in less than 90 minutes for good sample quality.
 7.  Place the snout in a tube of Tyrode's buffer on ice until ready to
     proceed with the fine dissection.
 
-Fine Dissection and Plating
+### Fine Dissection and Plating
 
 1.  Prepare the plate. Place the desired number of filters into the
     multiwell plate and fill the bottom compartment with cold Tyrode's
@@ -248,7 +248,7 @@ Fine Dissection and Plating
     marker to keep track of the position of the filter within the well
     (in case it spins) and label the lid with which sample is which.
 
-Culturing
+### Culturing
 
 1.  Take the plate of filters and explants to the tissue culture hood.
 
