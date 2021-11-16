@@ -1,5 +1,4 @@
-# Expansion Microscopy Adapted for Delicate Tissue
-Sections
+# Expansion Microscopy Adapted for Delicate Tissue Sections
 
 The goal of this procedure is to expand samples to make it easier to see
 small objects, especially those near the diffraction limit for light
@@ -89,7 +88,7 @@ depending on mounting.
 
 -   antibodies and DAPI, diluted in PBS
 
--   glass-bottom imaging dish
+-   glass-bottom imaging dish (optional: The glass may be coated with poly-lysine to reduce gel shift)
 
 -   Kim wipes
 
@@ -160,9 +159,8 @@ indefinitely, but for more than a day.)
 
     e.  an aliquot of UExM-MS on ice. This should be scaled for how much
         area you intend to cover. I like to do 31.11µl of UExM-MS per
-        slide (which will be added to 1.94µl of 10% TEMED and 1.94µl of
-        10% APS per slide.) I think it works out to approximately
-        0.27µl/mm² of the area to fill.
+        slide (to which I add 1.94µl of 10% TEMED and 1.94µl of
+        10% APS per slide.)
 
 12. Add the 10% TEMED to the UExM-MS aliquot. Mix thoroughly by
     pipetting.
@@ -181,14 +179,12 @@ indefinitely, but for more than a day.)
     droplet. Set the slide down such that it rests on the glass spacers.
     The gel should spread to cover the sample.
 
-17. Incubate the gel on the cold block for 5 minutes. You may press
-    lightly on the back of the slide with your finger and hold it there
-    to keep everything flat and help the polymerizing process along.
+17. Incubate the gel on the cold block for 5 minutes. You may add a small weight (e.g. a hardware nut) to get a consistent amount of spreading.
 
 18. Remove any weights and slide the Parafilm (with spacers, gel, and
     slide) off the metal block carefully, so as not to disrupt the gel.
 
-19. Incubate the gel at room temperature overnight. (It is possible that
+19. Incubate the gel in a humid chamber at room temperature overnight. (It is possible that
     incubating the gel at 37°C for a shorter period, such as 1 hour,
     will also work.)
 
