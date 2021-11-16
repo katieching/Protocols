@@ -130,8 +130,7 @@ done in less than 90 minutes for good sample quality.
 3.  Use forceps to gently remove the olfactory bulb and any of the rest
     of the brain from the cavity behind the eyes. Note: If you're having
     trouble grasping the sample with forceps, it can be helpful to
-    remove the eyes and grasp the samples by the eye sockets. (images:
-    before and after removing olfactory bulb and remaining brain)
+    remove the eyes and grasp the samples by the eye sockets. 
 
 4.  Scrape or wipe the thin membrane from the top of the snout. 
 
@@ -213,6 +212,7 @@ done in less than 90 minutes for good sample quality.
 19. Grasp the snout so that the bare side of the septum is facing you.
     Use bone shears to cut the left nasal bone, above the septum,
     mirroring the breaks made to remove the right nasal bone. 
+    
 20. Use forceps to remove the left nasal bone between the breaks.
 
 21. Use microdissecting scissors to gently cut around the piece of
@@ -276,6 +276,6 @@ b.  Under the current conditions, samples start to have a few dead
     attempting longer culturing times, media may need to be replaced
     each day to keep samples healthy and uncontaminated.
 
-c.  Explants are typically fixed by using forceps to lift them off of
+c.  Explants can be fixed by using forceps to lift them off of
     the filter and transfer them into 4% paraformaldehyde in PBS. They
-    can be fixed at 4°C overnight.
+    can be fixed at 4°C overnight and then washed in PBS.
