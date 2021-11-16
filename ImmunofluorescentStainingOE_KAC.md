@@ -84,12 +84,12 @@ antibodies, but this one will likely yield better signal to noise.
     contain calcified bone and may not float when sucrose is initially
     added, as softer tissue samples often do. Hence, sinking isn't a
     good indication of equilibration to the sucrose solution. Note:
-    samples can be stored in sucrose for days to weeks at 4°C.
+    samples can be stored in sucrose for days to weeks at 4°C, but sticking to 1-2 days in sucrose yields consistently low background in my hands.
 
 5.  Embed samples in OCT on dry ice, blotting briefly on a Kim wipe to
     remove excess liquid before submerging the sample in OCT. Note: this
     can be done at -20°C, but it takes longer. Also, samples can be
-    stored in frozen blocks for weeks, possibly longer when sealed with
+    stored at -80°C in frozen blocks for weeks, possibly longer when sealed with
     desiccant.
 
 6.  Section samples onto charged slides using a cryostat. I typically
